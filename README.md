@@ -19,9 +19,9 @@ velocity organizations, born from the experiences of its practitioners.
 
 ## Practitioners of Chef Style DevOps
 
-* [CHO@ForkTheWeb](http://chef.io)
+* [CHO@ForkTheWeb](https://github.com/dockistry)
 
-This repository is brand new and we intend to include it in the promotion of our registry-based strategy moving forward in 2016.
+This repository is very new and we intend to include it in the promotion of our registry-based fullstack engine moving forward in 2016.
 
 ## License
 
