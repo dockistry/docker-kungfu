@@ -5,23 +5,31 @@ This repository defines Docker Style DevOps Kung fu.
 For more information on what DevOps is, start by taking a look at this [slideshow](http://chef.github.io/devops-kungfu/). If you agree with the fundamental principles, wish to practice our forms, and apply the style to your professional life, you can join
 our school by sending a pull request to this README file, and adding your name to the list of practitioners.
 
-This school practices docker DevOps multi-platform CaaS, and our masters also teach a sub-style based on   [dockistry](http://chef.github.io/devops-kungfu/) stack strategies.
+This school practices docker DevOps multi-platform CaaS, and our masters also teach a sub-style based on   [dockistry](http://github.com/forktheweb/dockistry) stack strategies.
 
-If you like most of what you see, but not all, or wish to emphasize different
-things about your style - but you agree on the same fundamental principles - you
-should can fork this repo and start your own school/style, or contribute to [dockistry](https://gitter.im/forktheweb/dockistry) 
-by adding uploading your stack to our registry which is opensource driven and can be downloaded and utilized by anyone using the CLI.
+If you like most of what you see, but not all, or wish to emphasize different things about your style - but you agree on the same fundamental principles - you should can fork this repo and start your own school/style, or contribute to [dockistry](https://gitter.im/forktheweb/dockistry) by uploading your stack to our portable docker registry (freely available).  
+This opensource project is in pre-alpha status and seeking contributors actively, so leave us a message on Gitter if you need access.
 
 ## What is DevOps?
 
 A cultural and professional movement, focused on how we build and operate high
 velocity organizations, born from the experiences of its practitioners.
 
-## Practitioners of Chef Style DevOps
+## Practitioners of Docker Style DevOps
 
 * [CHO@ForkTheWeb](https://github.com/dockistry)
 
-This repository is very new and we intend to include it in the promotion of our registry-based fullstack engine moving forward in 2016.
+This repository is very new and we intend to include it in the promotion of our registry-based fullstack strategy engine.
+
+
+## Dockistry Practitioners
+
+Names added to this list will be interested in actively contributing their know-how and fundamental devops principles to our style.
+
+## Based on Chef's repository
+
+This project is a fork of the [Chef Style DevOps](https://github.com/chef/devops-kungfu) fundamentals here.
+
 
 ## License
 
