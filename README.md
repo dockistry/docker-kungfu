@@ -5,7 +5,7 @@ This repository defines Docker Style DevOps Kung fu.
 For more information on what DevOps is, start by taking a look at this [slideshow](http://chef.github.io/devops-kungfu/). If you agree with the fundamental principles, wish to practice our forms, and apply the style to your professional life, you can join
 our school by sending a pull request to this README file, and adding your name to the list of practitioners.
 
-This school practice docker DevOps best practices fundamentally, and our masters also teach a sub-style based on   [dockistry](http://chef.github.io/devops-kungfu/) stack development strategies.
+This school practices docker DevOps multi-platform CaaS, and our masters also teach a sub-style based on   [dockistry](http://chef.github.io/devops-kungfu/) stack strategies.
 
 If you like most of what you see, but not all, or wish to emphasize different
 things about your style - but you agree on the same fundamental principles - you
